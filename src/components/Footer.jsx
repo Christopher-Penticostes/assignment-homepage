@@ -77,11 +77,11 @@ const Footer = () => {
             <div className='flex items-center max-lg:pb-6 max-lg:justify-center max-lg:order-3'>
               <p className='text-[#A3A3A3] text-[14px] font-medium max-md:text-[12px] max-md:text-center'>Copyright © 2023 Marci METZGER Homes - All Rights Reserved</p>
             </div>
-            <div className='flex flex-col items-center justify-center relative max-lg:pt-1 max-lg:pb-3 max-lg:order-2'>
+            <div className='flex flex-col items-center justify-center relative max-lg:pt-3 max-lg:pb-3 max-lg:order-2'>
               <p className='text-[#A3A3A3] text-[14px] font-medium uppercase absolute top-1 max-lg:static'>Powered By</p>
               <img src={GoDaddy} className='h-[30px] invert brightness-0' />
             </div>
-            <div className='flex items-center justify-end gap-3 max-lg:gap-5 max-lg:pb-3 max-lg:justify-center max-lg:order-1'>
+            <div className='flex items-center justify-end gap-3 max-lg:gap-5 max-lg:justify-center max-lg:order-1'>
               <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px] cursor-pointer'>
                 <img src={Facebook} className='h-[12px]' />
               </div>
