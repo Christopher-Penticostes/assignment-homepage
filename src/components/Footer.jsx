@@ -82,16 +82,16 @@ const Footer = () => {
               <img src={GoDaddy} className='h-[30px] invert brightness-0' />
             </div>
             <div className='flex items-center justify-end gap-3 max-lg:gap-5 max-lg:pb-3 max-lg:justify-center max-lg:order-1'>
-              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px]'>
+              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px] cursor-pointer'>
                 <img src={Facebook} className='h-[12px]' />
               </div>
-              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px]'>
+              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px] cursor-pointer'>
                 <img src={Instagram} className='h-[12px]' />
               </div>
-              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px]'>
+              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px] cursor-pointer'>
                 <img src={Linkedin} className='h-[12px]' />
               </div>
-              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px]'>
+              <div className='flex items-center justify-center border border-[#A3A3A3] rounded-full h-[35px] w-[35px] cursor-pointer'>
                 <img src={Yelp} className='h-[12px]' />
               </div>
             </div>
