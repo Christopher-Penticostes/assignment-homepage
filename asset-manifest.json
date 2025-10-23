@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/assignment-homepage/static/css/main.7899d190.css",
+    "main.js": "/assignment-homepage/static/js/main.44b2fda1.js",
+    "static/media/BG_Hero.png": "/assignment-homepage/static/media/BG_Hero.d5fb50f59c7cc5300783.png",
+    "static/media/BG2.webp": "/assignment-homepage/static/media/BG2.2f33c0a2f25d587a8e78.webp",
+    "static/media/Sold3.webp": "/assignment-homepage/static/media/Sold3.01a79642478f1fb9e995.webp",
+    "static/media/Photo1.webp": "/assignment-homepage/static/media/Photo1.0469750e584b059d88d1.webp",
+    "static/media/Photo4.webp": "/assignment-homepage/static/media/Photo4.eeabf8830f708a7b28ac.webp",
+    "static/media/Photo6.webp": "/assignment-homepage/static/media/Photo6.1ba4fc4e15d9aa32b297.webp",
+    "static/media/Photo5.webp": "/assignment-homepage/static/media/Photo5.8deb8959d4c03912b82f.webp",
+    "static/media/Photo3.webp": "/assignment-homepage/static/media/Photo3.77596beeb3221706f6b3.webp",
+    "static/media/Photo7.webp": "/assignment-homepage/static/media/Photo7.e2a87873cfb23011f618.webp",
+    "static/media/Photo2.webp": "/assignment-homepage/static/media/Photo2.6ad1f4045516e5f1f5d9.webp",
+    "static/media/Service2.webp": "/assignment-homepage/static/media/Service2.5d68ffdfc9bbbabd2c62.webp",
+    "static/media/Sold2.webp": "/assignment-homepage/static/media/Sold2.2d7b1ffa14c93df6f64f.webp",
+    "static/media/Sold1.webp": "/assignment-homepage/static/media/Sold1.0904f88f150881bebb3d.webp",
+    "static/media/godaddy.png": "/assignment-homepage/static/media/godaddy.7fdb5b3e5a910d3215b5.png",
+    "static/media/whatsapp.png": "/assignment-homepage/static/media/whatsapp.c339ff504121f060e736.png",
+    "static/media/Service3.webp": "/assignment-homepage/static/media/Service3.39260e5ca6afa6a21ff7.webp",
+    "static/media/ProfilePic.webp": "/assignment-homepage/static/media/ProfilePic.45d1ad29061e005dd02e.webp",
+    "static/media/Service1.webp": "/assignment-homepage/static/media/Service1.0ae9d767018145bba40e.webp",
+    "static/media/Company3.webp": "/assignment-homepage/static/media/Company3.8b60056208f656f577eb.webp",
+    "static/media/logo.webp": "/assignment-homepage/static/media/logo.a5517f07ec6e9074610c.webp",
+    "static/media/yelp.png": "/assignment-homepage/static/media/yelp.22e828cc05b3804af115.png",
+    "static/media/insta.png": "/assignment-homepage/static/media/insta.093dff4d6de225fe3177.png",
+    "static/media/Company2.webp": "/assignment-homepage/static/media/Company2.c7d3af19652896448101.webp",
+    "static/media/Company1.webp": "/assignment-homepage/static/media/Company1.4e3ed81a3c6107fd5465.webp",
+    "static/media/Company4.webp": "/assignment-homepage/static/media/Company4.0a298e352094d34dbd75.webp",
+    "index.html": "/assignment-homepage/index.html",
+    "main.7899d190.css.map": "/assignment-homepage/static/css/main.7899d190.css.map",
+    "main.44b2fda1.js.map": "/assignment-homepage/static/js/main.44b2fda1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7899d190.css",
+    "static/js/main.44b2fda1.js"
+  ]
+}
