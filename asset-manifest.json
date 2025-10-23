@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/assignment-homepage/static/css/main.7899d190.css",
-    "main.js": "/assignment-homepage/static/js/main.d6b25dab.js",
+    "main.css": "/assignment-homepage/static/css/main.187bd9bf.css",
+    "main.js": "/assignment-homepage/static/js/main.fdcaf27e.js",
     "static/media/BG_Hero.png": "/assignment-homepage/static/media/BG_Hero.d5fb50f59c7cc5300783.png",
     "static/media/BG2.webp": "/assignment-homepage/static/media/BG2.2f33c0a2f25d587a8e78.webp",
     "static/media/Sold3.webp": "/assignment-homepage/static/media/Sold3.01a79642478f1fb9e995.webp",
@@ -28,11 +28,11 @@
     "static/media/Company1.webp": "/assignment-homepage/static/media/Company1.4e3ed81a3c6107fd5465.webp",
     "static/media/Company4.webp": "/assignment-homepage/static/media/Company4.0a298e352094d34dbd75.webp",
     "index.html": "/assignment-homepage/index.html",
-    "main.7899d190.css.map": "/assignment-homepage/static/css/main.7899d190.css.map",
-    "main.d6b25dab.js.map": "/assignment-homepage/static/js/main.d6b25dab.js.map"
+    "main.187bd9bf.css.map": "/assignment-homepage/static/css/main.187bd9bf.css.map",
+    "main.fdcaf27e.js.map": "/assignment-homepage/static/js/main.fdcaf27e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7899d190.css",
-    "static/js/main.d6b25dab.js"
+    "static/css/main.187bd9bf.css",
+    "static/js/main.fdcaf27e.js"
   ]
 }
